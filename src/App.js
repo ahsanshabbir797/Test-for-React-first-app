@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+<br /> <i>This is a deployment without yarn file</i>
         </p>
         <a
           className="App-link"
